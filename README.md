@@ -4,7 +4,7 @@
 
 This project implements a decision tree classifier in Python using entropy and information gain. It reads a car evaluation dataset, splits the data into training and testing sets, recursively builds a decision tree, prints the resulting tree structure, and predicts classifications for test records.
 
-This project was developed for a university machine learning / intelligent systems assignment to demonstrate how decision trees can be built from scratch rather than using a prebuilt library.
+This project was developed for a university intelligent systems assignment to demonstrate how a decision tree can be implemented from scratch rather than relying on a prebuilt library.
 
 ## Skills Demonstrated
 
@@ -59,6 +59,4 @@ python main.py
 
 ## More Projects
 
-To browse the rest of my portfolio, follow the link below!
-
-[Portfolio](https://github.com/JohnMartinMacLeod/data-portfolio)
+More projects are available in my [portfolio repository](https://github.com/JohnMartinMacLeod/data-portfolio)
