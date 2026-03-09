@@ -31,12 +31,12 @@ This project was developed for a university intelligent systems assignment to de
 
 ## File Guide
 
-- main.py - loads data, splits dataset, builds tree, and prints predictions
-- fileReader.py - reads CSV data into objects and extracts column values
-- entropy.py - calculates entropy, information gain, and classifier counts
-- searchTree.py - builds and prints tree, predicts classifiers
-- classes.py - defines Car and TreeNode classes
-- constants.py - contains training split percentage and number of classifier constants
+- `main.py` - loads data, splits dataset, builds tree, and prints predictions
+- `fileReader.py` - reads CSV data into objects and extracts column values
+- `entropy.py` - calculates entropy, information gain, and classifier counts
+- `searchTree.py` - builds and prints tree, predicts classifiers
+- `classes.py` - defines Car and TreeNode classes
+- `constants.py` - contains training split percentage and number of classifier constants
 
 ## How to Run
 
